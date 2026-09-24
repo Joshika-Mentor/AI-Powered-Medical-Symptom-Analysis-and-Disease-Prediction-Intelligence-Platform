@@ -1,0 +1,4 @@
+python data_pipeline.py
+python model_training.py
+python database.py
+python predict_and_save.py
